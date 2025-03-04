@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [here](https://github.com/hamdanideni/femc-easybank-landing-page)
+- Live Site URL: [here](https://hamdanideni.github.io/femc-easybank-landing-page/)
 
 ## My process
 
